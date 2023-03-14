@@ -13,9 +13,7 @@ Outside the world of technology. I love practising sports such as going to the g
 I like reading books on personal development. My favourite ones are Power Hour by Adrienne herbert and Compound effect by Darren Hardy.
 Also, I'm car lover.
 
-📫 How to reach me:
 
-![LinkedIn](https://www.linkedin.com/in/youssef-ben-amara-a49670172/?style=for-the-badge&logo=LinkedIn&logoColor=white)]
 
 <!--
 **youssefbac/youssefbac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
