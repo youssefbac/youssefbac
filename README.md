@@ -5,7 +5,7 @@ About Me:
 ✨I am Youssef Ben Amara a Junior Data Scientist. Currently I'm looking for my first job opportunity✨
 
 - 🌱 I enjoy contributing to open source projects and I am really enthousiastic about learning new technology.
-- 🔭 I'm currently working on a predictive analysis project. It consists to develop a dynamic dashboard that help buisness manager to take the best decision.
+- 🔭 I'm currently working on an analysis project. It consists to develop a dynamic dashboard that help buisness manager to take the best decision.
 - 👯 I’m looking to collaborate on new projets.
 - 📫 How to reach me: benamarayoussef20@gmail.com
 
