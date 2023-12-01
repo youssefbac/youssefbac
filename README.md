@@ -9,7 +9,7 @@ About Me:
 - 👯 I’m looking to collaborate on new projets.
 - 📫 How to reach me: benamarayoussef20@gmail.com
 
--⚡Outside the world of technology. I love practising sports such as going to the gym, cycling and jogging.
+- ⚡  Outside the world of technology. I love practising sports such as going to the gym, cycling and jogging.
 I like reading books on personal development. My favourite ones are Power Hour by Adrienne herbert and Compound effect by Darren Hardy.
 Also, I'm car lover.
 
