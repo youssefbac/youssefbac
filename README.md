@@ -2,14 +2,14 @@
 
 About Me:
  
-✨I am Youssef Ben Amara a Junior Data Scientist pursuing my engineering studies in computer science. ✨
+✨I am Youssef Ben Amara a Junior Data Scientist. Currently I'm looking for my first job opportunity✨
 
-I enjoy contributing to open source projects and I am really enthousiastic about learning new technology.
+- 🌱 I enjoy contributing to open source projects and I am really enthousiastic about learning new technology.
+- 🔭 I'm currently working on a predictive analysis project. It consists to develop a dynamic dashboard that help buisness manager to take the best decision.
+- 👯 I’m looking to collaborate on new projets.
+- 📫 How to reach me: benamarayoussef20@gmail.com
 
-I'm currently working on a predictive analysis project. It consists to develop a dynamic dashboard that help buisness manager to take the best decision.
-In this project, I use machine Learning to develop a predictive model.
-
-Outside the world of technology. I love practising sports such as going to the gym, cycling and jogging.
+-⚡Outside the world of technology. I love practising sports such as going to the gym, cycling and jogging.
 I like reading books on personal development. My favourite ones are Power Hour by Adrienne herbert and Compound effect by Darren Hardy.
 Also, I'm car lover.
 
