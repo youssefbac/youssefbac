@@ -6,7 +6,7 @@ About Me:
 
 - 🌱 I enjoy contributing to open source projects and I am really enthousiastic about learning new technology.
 - 🔭 I'm currently working on an analysis project. It consists to develop a dynamic dashboard that help buisness manager to take the best decision.
-- 👯 I’m looking to collaborate on new projets.
+- 👯 I’m looking to collaborate on new projects.
 - 📫 How to reach me: benamarayoussef20@gmail.com
 
 - ⚡  Outside the world of technology. I love practising sports such as going to the gym, cycling and jogging.
